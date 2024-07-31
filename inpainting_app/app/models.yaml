@@ -1,0 +1,26 @@
+
+
+Standard:
+  path: pruned_models/pruned_model_0.pth
+  load_at_startup: True
+  return_vals: [inpainted]
+
+1%-pruned:
+  path: pruned_models/pruned_model_1.pth
+  load_at_startup: False
+  return_vals: [inpainted]
+
+7%-pruned:
+  path: pruned_models/pruned_model_7.pth
+  load_at_startup: False
+  return_vals: [inpainted]  
+
+40%-pruned:
+  path: pruned_models/pruned_model_40.pth
+  load_at_startup: False
+  return_vals: [inpainted] 
+
+99%-pruned:
+  path: pruned_models/pruned_model_99.pth
+  load_at_startup: False
+  return_vals: [inpainted] 
