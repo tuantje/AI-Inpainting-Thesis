@@ -21,13 +21,11 @@ This folder comprises:
   - **Inpainting Quality Analysis**: Analysis of the quality of the inpainting results.
   - **Efficiency Analysis**: Analysis of efficiency metrics such as memory usage and running time.
 
-### 3. Example App Video
-This folder contains a video demonstrating the inpainting application.
 
-### 4. Train
+### 3. Train
 This folder includes Python training files based on the work of Yu et al. (https://github.com/JiahuiYu/generative_inpainting). 
 
-### 5. Inpainting App
+### 4. Inpainting App
 This folder contains the files needed to run the inpainting app. Make sure to read all the README files and other markdown files.
 
 
