@@ -1,6 +1,6 @@
 # Thesis Project on Image Inpainting
 
-This repository contains the essential components of my thesis on evaluating/analysing inpainting models based on Gated Convolutions proposed by Yu et al. (https://github.com/JiahuiYu/generative_inpainting). The Google Drive is structured into several folders, each serving a distinct purpose within the project.
+This repository contains the essential components of my thesis on evaluating/analysing inpainting models based on Gated Convolutions proposed by Yu et al. (https://github.com/JiahuiYu/generative_inpainting). This repository is structured into several folders, each serving a distinct purpose within the project.
 
 ## Folder Structure
 
