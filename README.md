@@ -32,7 +32,7 @@ This folder contains the results and analysis of the inpainting model evaluation
   - **Efficiency Analysis**: Analysis of the efficiency metrics, including memory consumption and runtime performance.
 
 ### 3. Train
-This folder includes the scripts and configurations used for training the inpainting models. These scripts are based on the work by Yu et al. (https://github.com/JiahuiYu/generative_inpainting), adapted and extended for this research.
+This folder includes the scripts and configurations used for training the inpainting models. These scripts are based on the work by [Yu et al.](https://github.com/JiahuiYu/generative_inpainting), adapted and extended for this research.
 
 ### 4. Inpainting App
 This folder contains everything you need to run the inpainting app locally.
