@@ -39,9 +39,6 @@ This folder contains everything you need to run the inpainting app locally.
 - **Setup Instructions**: Read the README files and additional markdown files for detailed instructions on setting up and running the app.
 - **CPU Compatibility**: The app has been configured to run on CPUs, ensuring it can be used on machines without high-end GPUs.
 
-## Acknowledgments
-
-This project builds upon the incredible work by Jiahui Yu and collaborators, who originally developed the Gated Convolutional Network for inpainting. I also want to extend a special shoutout to [Nipponjo](https://github.com/nipponjo), whose work greatly influenced the development of the inpainting app included in this repository.
 
 ## Note
 
