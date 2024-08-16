@@ -1,6 +1,6 @@
 # Thesis Project on Image Inpainting with Gated Convolutions
 
-Welcome to the repository for my Master's thesis on evaluating and analyzing inpainting models based on Gated Convolutions, originally proposed by Yu et al. (https://github.com/JiahuiYu/generative_inpainting). This research aimed to explore the performance, efficiency, and practical deployment of inpainting models, particularly focusing on making these advanced models accessible and runnable on standard consumer hardware, including CPUs.
+Welcome to the repository for my Master's thesis on evaluating and analyzing inpainting models based on Gated Convolutions, originally proposed by [Yu et al.](https://github.com/JiahuiYu/generative_inpainting). This research aimed to explore the performance, efficiency, and practical deployment of inpainting models, particularly focusing on making these advanced models accessible and runnable on standard consumer hardware, including CPUs.
 
 ## Research Focus
 
